@@ -1,6 +1,6 @@
 # Linux Server Log Analyzer
 
-A Python tool to analyze cybersecurity logs from Linux servers. 
+A Python tool to analyse logs from Linux servers. 
 LSLA parses log entries to extract key information, define targets or hosts, and summarise significant events such as successful and failed login attempts, sudo command usage, and session disconnections.
 
 ## Features
