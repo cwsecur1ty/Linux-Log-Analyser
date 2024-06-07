@@ -16,11 +16,11 @@ LSLA parses log entries to extract key information, define targets or hosts, and
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/linux-server-log-analyzer.git
+   git clone https://github.com/cwsecur1ty/Linux-Log-Analyser.git
    ```
 2. Change to the project directory:
    ```bash
-   cd linux-server-log-analyzer
+   cd Linux-Log-Analyser
    ```
 3. Install requirements.txt:
    ```bash
